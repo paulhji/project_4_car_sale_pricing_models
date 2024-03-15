@@ -5,6 +5,9 @@ Project 4: Ashby, Joy, Shawn, and Paul
 
 You will work with your group to solve, analyze, or visualize a problem using machine learning (ML) with the other technologies we’ve learned. Here are the specific requirements:
 
+## File Locations
+All python files for data cleaning and model execution are under the "Python_Files" directory. The "Resources" directory holds the original data set as well as the cleaned dataset for model training. 
+
 ## Find a problem worth solving, analyzing, or visualizing.
 Use machine learning (ML) with the technologies we’ve learned.
 You must use Scikit-learn and/or another machine learning library.
