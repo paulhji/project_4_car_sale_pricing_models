@@ -1,6 +1,9 @@
 # project_4_car_sale_pricing_models
 Project 4: Ashby, Joy, Shawn, and Paul
 
+## Project Goals
+Train a model to analyze vehicle sales based on historical sales data from 2005 - 2015. The goal is to find an accurate regression model based on multiple features as it relates to their sale price. We will utilize Python, Pandas DataFrames, and several regression models to identify which can predict the prices most accurately.
+
 ## Project 4
 
 You will work with your group to solve, analyze, or visualize a problem using machine learning (ML) with the other technologies we’ve learned. Here are the specific requirements:
